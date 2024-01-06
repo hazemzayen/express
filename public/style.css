@@ -1,0 +1,24 @@
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f077;
+    color: #3333338f;
+  }
+  
+  nav {
+    background-color: #333333;
+    color: #ffffff65;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: red;
+    text-decoration:beige;
+    margin-right: 20px;
+  }
+  
+  h1, p {
+    margin: 20px;
+  }
+  
